@@ -2,6 +2,7 @@ name: knutsen
 favicon: null
 layout_spectrum: 0.8439693262334913
 typography_spectrum: 0.7835532247554511
+title: 'SELECT * FROM x LEFT JOIN life'
 cta:
   domain: null
   bucket: null
