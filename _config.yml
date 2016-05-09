@@ -1,6 +1,6 @@
 name: knutsen
 favicon: null
-layout_spectrum: 0.8439693262334913
+layout_spectrum: 1
 typography_spectrum: 0.7835532247554511
 title: 'SELECT * FROM x LEFT JOIN life'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#090909'
+    - '#a9b4a3'
+    - '#fefefe'
+    - '#655e27'
+    - '#f2fc08'
   brandStrength: 0.43707325402647257
   lightness: 0.6373172616586089
   saturation: 0.8888289611786604
