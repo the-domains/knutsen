@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Absurd. Anstelle die vom Oberverwaltungsgericht als verfassungswidrig eingestuften Gefahrengebiete gleich ganz abzuschaffen, werden der Polizei in Zukunft mehr Möglichkeiten gegeben (Durchsuchung statt "Inaugenscheinnahme" von Personen in diesen Gebieten). Und aus den Gefahrengebieten werden nun "Gefährliche Orte". So will es jedenfalls der rot-grüne Senat.'
-datePublished: '2016-05-09T22:16:11.243Z'
-dateModified: '2016-05-09T22:14:42.799Z'
+datePublished: '2016-05-09T22:16:43.294Z'
+dateModified: '2016-05-09T22:16:16.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-httpwwwzeitdehamburgpolitik-wirtschaft2016-05gefahr.md
