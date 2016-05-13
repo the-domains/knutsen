@@ -4,8 +4,15 @@
         <description><![CDATA[SELECT * FROM x LEFT JOIN life]]></description>
         <link>https://thegrid.ai/knutsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 16:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 16:58:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knutsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jan Böhmermann und das #VeraFake]]></title>
+            <description><![CDATA[<article><h1>Jan Böhmermann und das #VeraFake</h1><p>Jan Böhmermann hat in seinem Comeback nach einem Monat Abstinenz mit dem Neo Magazin Royale mal wieder geliefert. So hat er in Vera int Veens Sendung auf RTL "Schwiegertochter gesucht", die so schlecht und moralisch fragwürdig ist wie es beim sogenannten Reality-TV nun einmal der Fall ist, eine gefaketen Kandidaten (plus Vater) eingeschleust und damit einige Mißstände aufgedeckt. Inzwischen hat RTL einige davon als Fehler anerkannt und Änderungen angekündigt.</p></article>]]></description>
+            <link>https://thegrid.ai/knutsen/jan-bohmermann-und-das-verafake/index.html</link>
+            <guid isPermaLink="false">f23b8a4b-f958-44fe-a1b4-04a863dafee6</guid>
+            <pubDate>Fri, 13 May 2016 16:58:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symbiose]]></title>
             <description><![CDATA[<article><h1>Symbiose</h1><p>Neulich kam ich bei meiner (schon fast traditionellen) Vatertags-Geocaching-Runde an einem aktiven Handy-Funkmast vorbei. Überraschenderweise war das Technik-Equipment (in der Nähe einer Kreisstraße) unabgesperrt, weswegen ich einen genaueren Blick riskierte.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb78e38c-ccd5-4f27-9b0e-28bc92d2c6a3.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/knutsen/zur-volksinitiative-gute-integration/index.html</link>
             <guid isPermaLink="false">6fcf5cbd-b3ac-4c5a-b24f-8cc8e9610032</guid>
             <pubDate>Fri, 13 May 2016 16:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jan Böhmermann und das #VeraFake]]></title>
-            <description><![CDATA[<article><h1>Jan Böhmermann und das #VeraFake</h1><p>Jan Böhmermann hat in seinem Comeback nach einem Monat Abstinenz mit dem Neo Magazin Royale mal wieder geliefert. So hat er in Vera int Veens Sendung auf RTL "Schwiegertochter gesucht", die so schlecht und moralisch fragwürdig ist wie es beim sogenannten Reality-TV nun einmal der Fall ist, eine gefaketen Kandidaten (plus Vater) eingeschleust und damit einige Mißstände aufgedeckt. Inzwischen hat RTL einige davon als Fehler anerkannt und Änderungen angekündigt.</p></article>]]></description>
-            <link>https://thegrid.ai/knutsen/jan-bohmermann-und-das-verafake/index.html</link>
-            <guid isPermaLink="false">f23b8a4b-f958-44fe-a1b4-04a863dafee6</guid>
-            <pubDate>Fri, 13 May 2016 16:26:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
