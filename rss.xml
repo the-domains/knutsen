@@ -4,8 +4,15 @@
         <description><![CDATA[SELECT * FROM x LEFT JOIN life]]></description>
         <link>https://thegrid.ai/knutsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 16:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 16:54:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knutsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Über die Volksinitiative gegen Großunterkünfte]]></title>
+            <description><![CDATA[<p>Diese Woche wurde eine Volksinitiative gegründet, die sich für eine dezentrale Unterbringung von Geflüchteten einsetzen möchte. Natürlich bin ich selber auch gegen Großunterkünfte und für eine dezentrale Unterbringung. Ich finde allerdings, daß die Abstimmungsvorlage nur mit “Nein” beantwortet werden kann und werde die Initiative persönlich auch nicht unterstützen. Die konkreten Forderungen finden sich hier unter dem Punkt “Vorlage”.</p>]]></description>
+            <link>https://thegrid.ai/knutsen/zur-volksinitiative-gute-integration/index.html</link>
+            <guid isPermaLink="false">6fcf5cbd-b3ac-4c5a-b24f-8cc8e9610032</guid>
+            <pubDate>Fri, 13 May 2016 16:54:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symbiose]]></title>
             <description><![CDATA[<article><h1>Symbiose</h1><p>Neulich kam ich bei meiner (schon fast traditionellen) Vatertags-Geocaching-Runde an einem aktiven Handy-Funkmast vorbei. Überraschenderweise war das Technik-Equipment (in der Nähe einer Kreisstraße) unabgesperrt, weswegen ich einen genaueren Blick riskierte.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb78e38c-ccd5-4f27-9b0e-28bc92d2c6a3.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/knutsen/gefahrliche-orte-oder-gefahrengebiete/index.html</link>
             <guid isPermaLink="false">94c9705a-d3fa-4e47-80d0-481eb6514684</guid>
             <pubDate>Fri, 13 May 2016 16:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zur Volksinitiative “Gute Integration”]]></title>
-            <description><![CDATA[<p>Über die Volksinitiative gegen Großunterkünfte</p>]]></description>
-            <link>https://thegrid.ai/knutsen/zur-volksinitiative-gute-integration/index.html</link>
-            <guid isPermaLink="false">6fcf5cbd-b3ac-4c5a-b24f-8cc8e9610032</guid>
-            <pubDate>Fri, 13 May 2016 16:29:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jan Böhmermann und das #VeraFake]]></title>
