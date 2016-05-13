@@ -1,17 +1,22 @@
 ---
-authors: []
-dateModified: '2016-05-13T16:23:42.288Z'
-datePublished: '2016-05-13T16:24:01.964Z'
-hasPage: true
 inFeed: false
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: Twitter
 description: ''
+datePublished: '2016-05-13T16:51:19.974Z'
+dateModified: '2016-05-13T16:34:47.340Z'
+title: Twitter
 author: []
-starred: true
 sourcePath: _posts/2016-05-13-carlknutsen.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: carlknutsen/index.html
 _type: WebPage
 
