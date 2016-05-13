@@ -1,26 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Jan Böhmermann hat in seinem Comeback nach einem Monat Abstinenz mit dem Neo Magazin Royale mal wieder geliefert. So hat er in Vera int Veens Sendung auf RTL "Schwiegertochter gesucht", die so schlecht und moralisch fragwürdig ist wie es beim sogenannten Reality-TV nun einmal der Fall ist, eine gefaketen Kandidaten (plus Vater) eingeschleust und damit einige Mißstände aufgedeckt. Inzwischen hat RTL einige davon als Fehler anerkannt und Änderungen angekündigt.'
-datePublished: '2016-05-13T15:57:18.427Z'
-dateModified: '2016-05-13T15:57:12.547Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-13T16:25:13.372Z'
+datePublished: '2016-05-13T16:26:01.328Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: 'Jan Böhmermann und das #VeraFake'
+description: 'Jan Böhmermann hat in seinem Comeback nach einem Monat Abstinenz mit dem Neo Magazin Royale mal wieder geliefert. So hat er in Vera int Veens Sendung auf RTL "Schwiegertochter gesucht", die so schlecht und moralisch fragwürdig ist wie es beim sogenannten Reality-TV nun einmal der Fall ist, eine gefaketen Kandidaten (plus Vater) eingeschleust und damit einige Mißstände aufgedeckt. Inzwischen hat RTL einige davon als Fehler anerkannt und Änderungen angekündigt.'
+author: []
 starred: false
 sourcePath: _posts/2016-05-13-jan-bohmermann-und-das-verafake.md
 url: jan-bohmermann-und-das-verafake/index.html
 _type: Article
 
 ---
+# Jan Böhmermann und das \#VeraFake
+
 Jan Böhmermann hat in seinem Comeback nach einem Monat Abstinenz mit dem Neo Magazin Royale mal wieder geliefert. So hat er in Vera int Veens Sendung auf RTL "Schwiegertochter gesucht", die so schlecht und moralisch fragwürdig ist wie es beim sogenannten Reality-TV nun einmal der Fall ist, eine gefaketen Kandidaten (plus Vater) eingeschleust und damit einige Mißstände aufgedeckt. Inzwischen hat RTL einige davon als Fehler anerkannt und Änderungen angekündigt.
 
 https://www.youtube.com/watch?v=mG\_Fyc-nyOs
