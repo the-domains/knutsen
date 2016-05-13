@@ -1,14 +1,14 @@
 ---
 authors: []
-dateModified: '2016-05-13T16:28:23.407Z'
-datePublished: '2016-05-13T16:28:32.739Z'
+dateModified: '2016-05-13T16:28:53.483Z'
+datePublished: '2016-05-13T16:29:02.556Z'
 hasPage: false
 inFeed: true
 inNav: false
 keywords: []
 publisher: {}
 title: Gefährliche Orte oder Gefahrengebiete?
-description: ''
+description: 'Absurd. Anstelle die vom Oberverwaltungsgericht als verfassungswidrig eingestuften Gefahrengebiete gleich ganz abzuschaffen, werden der Polizei in Zukunft mehr Möglichkeiten gegeben (Durchsuchung statt "Inaugenscheinnahme" von Personen in diesen Gebieten). Und aus den Gefahrengebieten werden nun "Gefährliche Orte". So will es jedenfalls der rot-grüne Senat.'
 author: []
 starred: false
 sourcePath: _posts/2016-05-09-httpwwwzeitdehamburgpolitik-wirtschaft2016-05gefahr.md
@@ -16,8 +16,6 @@ _type: Blurb
 
 ---
 # Gefährliche Orte oder Gefahrengebiete?
-
-Gefährliche Orte oder Gefahrengebiete?
 
 Absurd. Anstelle die vom Oberverwaltungsgericht als verfassungswidrig eingestuften Gefahrengebiete gleich ganz abzuschaffen, werden der Polizei [in Zukunft mehr Möglichkeiten gegeben][0] (Durchsuchung statt "Inaugenscheinnahme" von Personen in diesen Gebieten). Und aus den Gefahrengebieten werden nun "Gefährliche Orte". So will es jedenfalls der rot-grüne Senat.
 
